@@ -1,4 +1,4 @@
-# ❗QUIZ de JAVASCRIPT.
+# ❗QUIZ de JavaScript.
 <p>WebApp de um joguinho de perguntas e repostas sobre JavaScript, para testar seus conhecimentos da linguagem.👀</p>
 <img src="./assets/quiz.gif"/>
 <p>obs: A cada novo game, as perguntas são embaralhadas, para que não seja detectado um padrão.</p>
