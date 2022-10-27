@@ -4,7 +4,7 @@
 <p>obs: A cada novo game, as perguntas são embaralhadas, para que não seja detectado um padrão.</p>
 
 ## Técnico👨🏻‍💻
-<p>Tecnologias utilizadas: HTML/CSS, JS, ReactJS e ViteJS</p>
+<p>Tecnologias utilizadas: HTML/CSS, JS, ReactJS e ViteJS.</p>
 
 <p>Página inicial:🏠</p>
 <img src="./assets/home.png"/>
